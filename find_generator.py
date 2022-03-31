@@ -2,14 +2,6 @@ import pandas as pd
 
 n: int = int(input("modulo: "))
 
-def operator(a: str, x: int, y:int):
-    if (a == "Mul"):
-        return (x*y)%n
-    if (a == "Add"):
-        return (x+y)%n
-    if (a == "Sub"):
-        return (x-y)%n
-
 data = {}
 
 for i in range(1, n):
