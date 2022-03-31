@@ -95,3 +95,4 @@ for i in range(2, g+1):
 
 # Somehow buggy kalo pembaginya 0 eg: 5/0 mod 13
 # jadi ntar di cek lagi aja kalo ada pembagi 0 tehe
+# kalo mau aman jangan pake sih rada buggy
